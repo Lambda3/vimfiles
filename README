@@ -19,3 +19,7 @@ Installation instructions (Windows, no Powershell):
 - echo "source $($($env:HOME).Replace('\', '/'))/vimfiles/.vimrc" > ~/_vimrc
 - cd ~/.vim
 - git submodule update --init
+
+Contributors:
+
+See them here: https://github.com/Lambda3/vimfiles/graphs/contributors
